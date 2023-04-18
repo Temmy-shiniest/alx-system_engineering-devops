@@ -1,0 +1,2 @@
+#!/bin/bash
+greo -i -A 3 "root" /etc/passwd
